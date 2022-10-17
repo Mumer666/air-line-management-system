@@ -1,0 +1,3 @@
+PIA,A788,Domestic national
+QATAR Airways,A320,International
+Emirates,A380,International

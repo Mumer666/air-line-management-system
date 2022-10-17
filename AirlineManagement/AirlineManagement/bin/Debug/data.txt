@@ -1,0 +1,4 @@
+#AMS302,ahmad,ahmad1,3019876543
+#AMS303,salahuddin sohail,salah1,3126935581
+#AMS301,M umer amjad,umer1,3126935581
+#AMS305,hurraira asghar,hurraira1,3126935581
